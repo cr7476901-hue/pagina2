@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lorenzo Mora — Carpintería en pino y productos para mascotas",
+  "description": "Casitas de machimbre de pino, colchones antidesgarro, camitas, mesas y bancos de camping fabricados en Córdoba, Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
